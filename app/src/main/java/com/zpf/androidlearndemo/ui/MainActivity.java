@@ -1,8 +1,10 @@
-package com.zpf.androidlearndemo;
+package com.zpf.androidlearndemo.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.zpf.androidlearndemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
